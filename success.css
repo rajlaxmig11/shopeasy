@@ -1,0 +1,28 @@
+body{
+background:#F8FAFC;
+height:100vh;
+
+display:flex;
+justify-content:center;
+align-items:center;
+
+font-family:Arial,sans-serif;
+}
+
+.success-box{
+background:white;
+padding:40px;
+border-radius:12px;
+text-align:center;
+box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+.success-box a{
+display:inline-block;
+margin-top:20px;
+padding:10px 20px;
+background:#2563EB;
+color:white;
+text-decoration:none;
+border-radius:8px;
+}
